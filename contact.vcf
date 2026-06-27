@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//GOOD PLAN CONSULTING//Kim Bangsook Contact//KO
+N:김;방숙;;;
+FN:김방숙
+ORG:GOOD PLAN CONSULTING;굿플랜컨설팅
+TITLE:대표 · ESG위원 · 경영지도사 · 기술거래사
+TEL;TYPE=CELL,VOICE:010-3667-7314
+TEL;TYPE=WORK,VOICE:031-269-0601
+TEL;TYPE=WORK,FAX:050-4190-7314
+EMAIL;TYPE=WORK,INTERNET:gpc7314@naver.com
+URL;TYPE=WORK:https://www.goodplanconsulting.kr/
+URL;TYPE=BLOG:https://blog.naver.com/gpc7314
+ADR;TYPE=WORK:;;경기대로761번길 30, AA12동 12호 현대프리미어캠퍼스;오산시;경기도;;대한민국
+NOTE:AI, 규제샌드박스 컨설팅, 소상공인컨설팅, ESG, ISO 인증 컨설팅
+END:VCARD
